@@ -4,5 +4,5 @@ made in Python.
 
 *  1.Solving it with only using bruteforce
 * 2.Solving it with using bruteforce and paralelization
-* 3.Solving it with heuristics method Branch and bound method
-* 4.Solving it with distributed computing among computers with heuristics method Branch and bound method
+* 3.Solving it with heuristics method Branch and bound
+* 4.Solving it with distributed computing among computers with heuristics method Branch and bound
